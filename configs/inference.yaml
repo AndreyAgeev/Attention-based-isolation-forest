@@ -1,0 +1,5 @@
+# @package inference
+defaults:
+  - model: attention_based_isolation_forest_sklearn
+  - dataset: credit
+  - logger: logger

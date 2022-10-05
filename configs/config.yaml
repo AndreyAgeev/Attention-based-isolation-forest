@@ -1,0 +1,10 @@
+mode: "optimization"
+
+defaults:
+  - inference
+  - optimization
+
+hydra:
+  run:
+    dir: ./hydra_outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+  output_subdir: null

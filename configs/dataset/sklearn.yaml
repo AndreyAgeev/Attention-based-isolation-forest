@@ -1,0 +1,5 @@
+_target_: atif.datasets.DatasetSklearn
+n_samples_normal: 1000
+n_samples_outliners: 200
+rng: 1234
+#0.17

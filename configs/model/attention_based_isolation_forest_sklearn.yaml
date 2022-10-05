@@ -1,0 +1,14 @@
+type_model:
+  _target_: atif.models.AttentionBasedIsolationForestSklearn
+  mode: 0
+
+n_estimators: 150
+seed: 1430
+
+attention_param:
+  eps: 1.0
+  softmax_tau: 0.1
+  attention_sigma_threshold: 0.5
+
+isolation_forest_param:
+  offset: 0.6
