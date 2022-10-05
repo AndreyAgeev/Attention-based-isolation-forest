@@ -1,0 +1,3 @@
+_target_: atif.datasets.DatasetCredit
+path: ""
+target_col: "Class"

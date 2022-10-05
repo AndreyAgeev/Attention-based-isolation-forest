@@ -1,0 +1,7 @@
+# @package optimization
+defaults:
+  - model: attention_based_isolation_forest_sklearn
+  - dataset: diabetes
+  - logger: logger
+
+report_path: ""

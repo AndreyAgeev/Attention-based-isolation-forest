@@ -1,0 +1,4 @@
+_target_: atif.datasets.DatasetGenerated1D
+n_samples_normal: 500
+n_samples_outliners: 50
+rng: 1234

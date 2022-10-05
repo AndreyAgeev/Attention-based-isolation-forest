@@ -1,0 +1,3 @@
+_target_: atif.datasets.DatasetCancer
+path: ""
+target_col: "diagnosis"
